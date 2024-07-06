@@ -1,0 +1,6 @@
+streamlit==1.22.0
+cvzone==1.5.6
+opencv-python==4.5.4.60
+numpy==1.21.4
+Pillow==8.4.0
+google-generative-ai==0.1.0
